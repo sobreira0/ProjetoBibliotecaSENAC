@@ -49,3 +49,9 @@ C:\Users\Guilherme\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca
 C:\Users\Guilherme\Biblioteca\obj\Debug\netcoreapp3.1\staticwebassets\Biblioteca.StaticWebAssets.xml
 C:\Users\Guilherme\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Users\Guilherme\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
+C:\Users\Guilherme\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\cadastroRealizado.cshtml.g.cs
+C:\Users\Guilherme\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\editarUsuario.cshtml.g.cs
+C:\Users\Guilherme\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ExcluirUsuario.cshtml.g.cs
+C:\Users\Guilherme\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\ListaDeUsuarios.cshtml.g.cs
+C:\Users\Guilherme\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\NeedAdmin.cshtml.g.cs
+C:\Users\Guilherme\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\RegistrarUsuarios.cshtml.g.cs
